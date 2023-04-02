@@ -13,6 +13,8 @@ TDD
 https://github.com/point-red/erp-api/tree/main/test/e2e/item (Test case)
 ```
 
-Buatan: Bagus Dwi Putra Linkedin: https://www.linkedin.com/in/bagus-dwi-putra/ Private email: bagusdp2011@gmail.com
+Buatan: Bagus Dwi Putra <br>
+Linkedin: https://www.linkedin.com/in/bagus-dwi-putra/ <br>
+Private email: bagusdp2011@gmail.com <br>
 
 Untuk lihat hasil, silahkan ketik node server.js
